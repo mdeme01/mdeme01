@@ -1,12 +1,12 @@
 - Hi, I’m Deme (@Subject6735).
 
-- I’m a Computer Science student, interested in Web development & games.
+- I’m a Computer Science student, interested in Web & Game Development.
 
 - I have previously learned / worked with:
-  - C, C++, Java
+  - C, C++, Java, HTML, CSS
 
 - I’m currently learning:
-  - HTML, CSS, JavaScript, PHP, C#
+  - JavaScript, PHP, C#
 
 - In the future I would like to learn / continue learning:
   - Python, Angular, React, NodeJS
