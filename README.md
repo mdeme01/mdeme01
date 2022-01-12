@@ -3,9 +3,9 @@
 - I’m a Computer Science student, interested in Web & Game Development.
 
 - I have previously learned / worked with:
-  - C, C++, Java, HTML, CSS
+  - C, C++, C#, Java, JavaScript, HTML, CSS, PHP
 
-- I’m currently learning:
+- I’m currently learning, improving in:
   - JavaScript, PHP, C#
 
 - In the future I would like to learn / continue learning:
