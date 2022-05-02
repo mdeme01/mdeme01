@@ -3,9 +3,8 @@
 - I’m a Computer Science student, interested in Web & Game Development.
 
 - I have previously learned / worked with:
-  - C, C++, C#, Java
-  - HTML, CSS, JavaScript, PHP
-  - Windows Forms, WPF, Xamarin
+  - C, C++, C# (.NET WinForms, WPF), Java, SQL (Oracle)
+  - HTML, CSS (+ SCSS, Bootstrap, Tailwind), JavaScript (React), PHP
 
 <!---
 Subject6735/Subject6735 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
